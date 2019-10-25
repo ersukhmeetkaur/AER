@@ -13,8 +13,8 @@
 
   <ul class="nav navbar-nav">
 
-<li><a href="javascript:void(0)" data-module="closed"><b>Registration Closed</b></a></li>
-
+<li><a href="javascript:void(0)" data-module="form"><b>Apply Online</b></a></li>
+<li><a href="javascript:void(0)" data-module="preview"><b>Preview & Submit Application</b></a></li>
   </ul>
 </div>
 </div>
