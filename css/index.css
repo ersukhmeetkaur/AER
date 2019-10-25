@@ -1,0 +1,59 @@
+
+  .carousel-inner img {
+      width: 100%; /* Set width to 100% */
+      margin: auto;
+      min-height:200px;
+  }
+
+  /* Hide the carousel text when the screen is less than 600 pixels wide */
+  @media (max-width: 600px) {
+    .carousel-caption {
+      display: none; 
+    }
+  }
+  table {
+    border-collapse: collapse;
+	width:88%;
+	font-family:geor;
+   }
+
+th, td {
+    padding: 8px;
+    text-align: left;
+    border: 0px solid transparent;
+width: 25%;
+}
+ .table1 {
+    border-collapse: collapse;
+	width:50%;
+   }
+.table1 th{
+    padding: 8px;
+    text-align: left;
+    border: 1px solid #ffffff;
+width: 25%;
+}
+.table1 td{
+    padding: 8px;
+    text-align: left;
+    border: 1px solid #ffffff;
+width: 25%;
+    }
+
+  
+   div.team {
+    background-color: #fefefe; /* pale blue */
+    border: 2px solid #00abbd; /* dark blue */
+	height: 100%;
+    width: 100%;
+	
+	align:center;
+  }
+   div.mentor {
+    background-color: #fefefe; /* pale blue */
+    border: 2px solid #00abbd; /* dark blue */
+	height: 100%;
+    width: 100%;
+	
+	align:center;
+  }

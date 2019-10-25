@@ -1,0 +1,29 @@
+1- provide all state names-DONE
+2- duplicate upload box to create two fields-DONE
+3- update filepath for uploads in DB -DONE
+4- provide institute pid verification-CANCELLED
+5- provide team leader aadhar in application preview-DONE
+6- restrict updation of team leader to only valid fields-DO NOT TELL NOBODY
+7- provide cities on the basis of states
+8- restrict registration for already registered email addresses, mobile numbers-DONE
+9- restrict upload filetype to pdf-DONE
+10- file upload restriction, found and alerted to user- max file size 2mb-DONE
+
+
+sec5.php
+
+regist.php
+msg_test.php
+JamesJacson
+This project developed by Zeeshan Akhtar
+Email:zshanakhtar@outlook.com
+Last commit:
+{
+uploads provided in sec5
+created two different folders for NOC and summary
+files uploaded, db updated
+echo post request size
+upload box improved
+file restriction 2mb alerted
+removed uploads from sec6
+}
